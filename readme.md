@@ -4,4 +4,5 @@ LinkedIn: www.linkedin.com/in/danielplatek
 CodePen: http://codepen.io/dplatek/  
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Project: Infinite Slider /jQuery.
+Project: Infinite Slider /jQuery.  
+CodePen: http://codepen.io/dplatek/pen/vxQmEv
