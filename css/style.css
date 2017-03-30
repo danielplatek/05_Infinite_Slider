@@ -1,0 +1,21 @@
+.slider{
+  overflow: hidden;
+}
+
+.slider ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.slider li{
+  display: inline-block;
+  margin: -2px;
+  padding: 0;
+}
+button{
+  position: relative;
+  text-align: center;
+  left: 140px;
+}
